@@ -1,5 +1,10 @@
 #8-ball / decision ball
 #
+
+### ted sem neco napisu, jen tak z prdele a ulozim to
+
+
+
 #What is this?
 #
 #The 8-ball (Eight-ball) is a decision ball which i bought
